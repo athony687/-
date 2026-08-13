@@ -1,0 +1,6 @@
+{
+  "name": "埼玉県図書館マップ",
+  "description": "埼玉県内の市立・県立図書館の位置、開館時間、設備（WiFi・学習室・駐車場等）を簡単に検索・ナビゲーションできるマップアプリ",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
